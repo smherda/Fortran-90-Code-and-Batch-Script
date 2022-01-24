@@ -1,6 +1,6 @@
-# Fortran-90-Code-and-Bash-Script
+# Fortran-90-Code-and-Batch-Script
 
-This folder contains code I wrote for projects using Fortran 90 and batch scripts. The code currently in the folder comes from a mathematics class that I took.
+This folder contains code I wrote for projects using Fortran 90 and a batch script. The code currently in the folder comes from a mathematics class that I took.
 
 ## Installation
  
