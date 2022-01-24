@@ -1,4 +1,4 @@
-# Fortran-90-Code
+# Fortran-90-Code-and-Bash-Script
 
 This folder contains code I wrote for projects using Fortran 90. The code currently in the folder comes from a mathematics class that I took.
 
