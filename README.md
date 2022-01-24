@@ -1,6 +1,6 @@
-# MATLAB-Example-Code
+# Fortran-90-Code
 
-This folder contains example code used for projects that I have worked on and were built using Fortran 90. The code currently in the folder come from a chemical engineering class that I took.
+This folder contains code I wrote for projects using Fortran 90. The code currently in the folder comes from a mathematics class that I took.
 
 ## Installation
  
